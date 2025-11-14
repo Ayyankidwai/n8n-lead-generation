@@ -25,4 +25,4 @@ This workflow automates the process of qualifying new leads that arrive via emai
 
 Click the image below to watch a full demo of the lead-generation in action:
 
-[![Demo Video](https://github.com/Ayyankidwai/n8n-lead-generation/blob/e7c92adb8b683191990b9c8909b3511686028cb1/n8n-workflow.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/edYVuYU4PLY))
+[![Demo Video](https://github.com/Ayyankidwai/n8n-lead-generation/blob/e7c92adb8b683191990b9c8909b3511686028cb1/n8n-workflow.png)]
