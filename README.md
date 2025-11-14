@@ -21,8 +21,6 @@ This workflow automates the process of qualifying new leads that arrive via emai
 3.  Create new credentials for Gmail, Google Sheets, Gemini AI, and Slack.
 4.  Update the nodes in the workflow to use your new credentials.
 
-## 🚀 Demo Video
+## 🚀 Screenshot
 
-Click the image below to watch a full demo of the lead-generation in action:
-
-[![Demo Video](https://github.com/Ayyankidwai/n8n-lead-generation/blob/e7c92adb8b683191990b9c8909b3511686028cb1/n8n-workflow.png)]
+https://github.com/Ayyankidwai/n8n-lead-generation/blob/820758d8ca970fcdd76f818ee24b76950bc4e8dc/n8n-workflow.png
