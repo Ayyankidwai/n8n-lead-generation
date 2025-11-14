@@ -23,4 +23,4 @@ This workflow automates the process of qualifying new leads that arrive via emai
 
 ## 🚀 Screenshot
 
-https://github.com/Ayyankidwai/n8n-lead-generation/blob/820758d8ca970fcdd76f818ee24b76950bc4e8dc/n8n-workflow.png
+![image alt](https://github.com/Ayyankidwai/n8n-lead-generation/blob/820758d8ca970fcdd76f818ee24b76950bc4e8dc/n8n-workflow.png)
